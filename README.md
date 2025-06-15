@@ -1,6 +1,6 @@
 - Hi, I’m @filippogianguzzo
-- I’m currently learning Apps in C++
-- Fun fact:  I don't know shit so far...
+- I’m currently learning C++ and Python
+- I don't know shit...
 
 <!---
 filippogianguzzo/filippogianguzzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
